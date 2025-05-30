@@ -1,5 +1,7 @@
 # Library Management System Database
 
+![yoyuqruo](https://github.com/user-attachments/assets/b89680b1-2cab-49d4-87de-4ce1499bbc79)
+
 ## Overview
 This project provides a MySQL-based relational database for a Library Management System. It supports core library operations such as managing books, authors, members, loans, fines, and reservations. The database is designed with normalized tables, foreign key constraints, triggers, views, and stored procedures to ensure data integrity and functionality.
 
