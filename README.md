@@ -27,3 +27,5 @@ The database includes the following tables:
 - Loans: Tracks book borrowing transactions.
 - Fines: Manages fines for overdue loans.
 - Reservations: Handles book reservations.
+
+
