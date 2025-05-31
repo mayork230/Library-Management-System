@@ -28,4 +28,9 @@ The database includes the following tables:
 - Fines: Manages fines for overdue loans.
 - Reservations: Handles book reservations.
 
+## Relationship
+
+![ERD Library management](https://github.com/user-attachments/assets/d61ec6fd-a8b8-4663-b211-827504fae30f)
+
+The above image is the ERD(Entity Relationship Diagram) for the Library Databse
 
